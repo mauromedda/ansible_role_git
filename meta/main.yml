@@ -11,6 +11,6 @@ galaxy_info:
   - name: EL
     versions:
     - all
-  galaxy_tags: [ "EL", "CentOS", "RedHat", "anbile_role_git" ]
+  galaxy_tags: [ "EL", "CentOS", "RedHat", "anbile_role_git", "git" ]
 
 dependencies: [ ]
