@@ -1,0 +1,9 @@
+---
+# tasks file for ansible_role_ansible
+
+- name: "GIT | Install git"
+  yum:
+    name: git
+    state: present
+  tags:
+    - install
